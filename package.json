@@ -1,0 +1,22 @@
+{
+  "name": "permission-util",
+  "version": "1.0.0",
+  "description": "Permission utility for HBK applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HBKEngineering/permission-util.git"
+  },
+  "author": "HBK Engineering, LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HBKEngineering/permission-util/issues"
+  },
+  "homepage": "https://github.com/HBKEngineering/permission-util",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
+}

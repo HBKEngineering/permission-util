@@ -1,0 +1,27 @@
+{
+  "name": "permission-util",
+  "version": "1.0.0",
+  "authors": [
+    "HBK Engineering",
+    "LLC <apps@hbkengineering.com>"
+  ],
+  "description": "Permission utility for HBK applications",
+  "main": "lib/permission-util.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "None",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "~1.8.3"
+  }
+}
