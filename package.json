@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/HBKEngineering/permission-util",
   "devDependencies": {
-    "chai": "^3.4.1"
+    "chai": "^4.3.0"
   },
   "dependencies": {
     "underscore": "^1.8.3"
